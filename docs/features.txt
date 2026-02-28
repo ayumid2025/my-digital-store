@@ -1,0 +1,11 @@
+Features for My Digital Store:
+- Users can sign up with a username and password.
+- Users can log in and log out.
+- Sellers can upload e-books and songs (with title, author, price, and file).
+- Buyers can see a list of all items for sale.
+- Buyers can click on an item to see more details.
+- Buyers can buy an item (for free at first).
+- After buying, buyers can download the file.
+- Buyers can search for items by title.
+- Buyers can leave reviews and ratings.
+- Sellers can edit or delete their items.
